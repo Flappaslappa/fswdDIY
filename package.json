@@ -1,0 +1,16 @@
+{
+  "name": "fswdself",
+  "version": "1.0.0",
+  "description": "Full Stack diy",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^2.4.5",
+    "supertest": "^1.1.0"
+  }
+}
